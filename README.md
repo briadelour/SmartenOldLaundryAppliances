@@ -2,6 +2,8 @@
 
 Transform your existing washer and dryer into smart appliances using affordable sensors and Home Assistant. Get notifications when your laundry is done without buying new machines!
 
+<img width="386" height="515" alt="image" src="https://github.com/user-attachments/assets/3adc7246-647b-4d66-b4e3-bd7ea10c6f7d" />
+
 ## Overview
 
 This project uses a smart plug to monitor electricity usage for the washing machine and a vibration sensor for the dryer. When integrated with Home Assistant, you'll receive notifications when laundry cycles complete, allowing you to move loads promptly and avoid that musty smell or wrinkled clothes.
