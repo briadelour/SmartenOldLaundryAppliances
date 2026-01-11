@@ -17,7 +17,7 @@ This project uses a smart plug to monitor electricity usage for the washing mach
 | **TP-Link KASA Smart Plug (KP115)** | Monitors washer power consumption with built-in energy monitoring | [Amazon](https://www.amazon.com/dp/B08LN3C7WK) |
 | **Zigbee Vibration Sensor** | Detects dryer vibrations during operation | [Amazon](https://www.amazon.com/dp/B0C9DP249C) |
 
-### Optional Component
+### Optional Component (if you don't already have one)
 
 | Component | Purpose | Link |
 |-----------|---------|------|
