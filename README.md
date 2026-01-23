@@ -30,6 +30,7 @@ This project uses a smart plug to monitor electricity usage for the washing mach
 - Home Assistant installation (Home Assistant OS, Container, or Supervised)
 - WiFi network (for the TP-Link smart plug)
 - Zigbee integration configured in Home Assistant (Zigbee2MQTT, ZHA, or similar)
+- Optional Firmware management add-on for Sonoff dongle for M21 and M24 that even lets you switch between Zigbee or Thread: https://github.com/iHost-Open-Source-Project/hassio-ihost-addon
 
 ## Installation
 
