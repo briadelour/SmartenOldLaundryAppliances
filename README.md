@@ -36,7 +36,7 @@ This project uses a smart plug to monitor electricity usage for the washing mach
 
 ### 1. Configure the Vibration Sensor
 
-Before installing the vibration sensor on your dryer, configure the DIP switches for optimal battery life and sensitivity:
+Before attaching the ThirdReality Vibration Sensor on your dryer, configure the DIP switches for optimal battery life and sensitivity:
 
 **DIP Switch Settings:**
 - **SIREN:** OFF (Position 1) - Disables the built-in siren since Home Assistant will handle notifications, preserving battery life
