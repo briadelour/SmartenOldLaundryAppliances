@@ -1,5 +1,6 @@
 # Smart Laundry Monitor for Old Appliances
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/briadelour)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/bdeloureiro)
 Transform your existing washer and dryer into smart appliances using affordable sensors and Home Assistant. Get notifications when your laundry is done without buying new machines!
 
 <img width="386" height="515" alt="image" src="https://github.com/user-attachments/assets/3adc7246-647b-4d66-b4e3-bd7ea10c6f7d" />
